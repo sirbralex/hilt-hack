@@ -1,0 +1,5 @@
+rootProject.name = "HiltHack"
+include ':app'
+include ':feature_hilt'
+include ':feature_pure_dagger'
+include ':library'
